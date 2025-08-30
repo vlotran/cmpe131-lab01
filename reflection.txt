@@ -1,1 +1,5 @@
-Using branches is a powerful and safe way for a team of software engineers to collaborate on a single project because it allows for the separation of new features. Brancheslet the team create copies of the main repository without affecting it. This is especially helpful in preventing accidental overwrites or deletions of the main codebase. Additionally, features can be easily modified or removed as needed.
+Using branches is a powerful and safe way for a team of software engineers to collaborate on
+a single project because it allows for the separation of new features. Branches let the team 
+create copies of the main repository without affecting it. This is especially helpful in
+preventing accidental overwrites or deletions of the main codebase. Additionally, features
+can be easily modified or removed as needed.
